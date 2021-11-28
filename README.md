@@ -7,4 +7,5 @@ window.alert('this is Alert Box');
 ~~~
 
 
-![RESUME SHARMA](https://user-images.githubusercontent.com/95132253/143728083-b03fd150-3df6-440b-bc8f-5e6bcf1a15b1.jpg)
+![rit7](https://user-images.githubusercontent.com/95132253/143728197-c287db71-e58e-4a70-8913-1538025ce32b.jpeg)
+
