@@ -5,7 +5,7 @@
 ~~~
 window.alert('this is Alert Box');
 ~~~
+![rit17](https://user-images.githubusercontent.com/95132253/143728709-5ea7c037-6f36-4068-a6db-b26b7bcc4771.jpg)
 
 
-![rit7](https://user-images.githubusercontent.com/95132253/143728197-c287db71-e58e-4a70-8913-1538025ce32b.jpeg)
 
